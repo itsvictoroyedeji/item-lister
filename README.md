@@ -7,3 +7,5 @@ Main difference between this and your "notes" app on your phone: Once you comple
 You can also search your list of items as well.
 
 > Note: List does go away if you refresh the page. I'll fix that soon. So don't refresh after making your list!
+
+> Note: Search search function doesn't work for mobile devices---yet. I'll into that as well.
