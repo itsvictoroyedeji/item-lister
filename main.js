@@ -8,6 +8,8 @@ addForm.addEventListener('submit', addItem);
 items.addEventListener('click', deleteItem);
 // Add keyup Event listener to search form
 filter.addEventListener('keyup', filterItem);
+// Event listener for touchscreens
+filter.addEventListener('ontouchend', filterItem);
 
 
 function addItem(e) {
