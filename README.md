@@ -1,4 +1,8 @@
-# A Random Item Lister
+# A Random A@@ Item Lister
+
+List things here: https://itsvictoroyedeji.github.io/item-lister/
+
+This is 2nd thing I made on The Odin Project, a site that taught me how to code. You won't see the 1st thing I made because it's really bad.
 
 Use this to list items you need (or want to do).
 
